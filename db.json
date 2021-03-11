@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "jack@gmail.com",
+            "username": "Jack",
+            "password": "Qqwerty1!"
+        },
+        {
+            "id": 2,
+            "email": "sabina301001@gmail.com",
+            "username": "Sabina",
+            "password": "Qqwerty1!"
+        },
+        {
+            "id": 3,
+            "email": "sabinabarinova@icloud.com",
+            "username": "SabinaB",
+            "password": "Qqwerty1!"
+        },
+        {
+            "id": 4,
+            "email": "barinova_s@outlook.com",
+            "username": "Barinovas",
+            "password": "Qqwerty1!"
+        },
+        {
+            "id": 5,
+            "email": "jackm@outlook.com",
+            "username": "JackM",
+            "password": "Qqwerty1!"
+        },
+        {
+            "id": 6,
+            "email": "jack@mail.ru",
+            "username": "Jackk",
+            "password": "Qqwerty1!"
+        }
+    ]
+}
